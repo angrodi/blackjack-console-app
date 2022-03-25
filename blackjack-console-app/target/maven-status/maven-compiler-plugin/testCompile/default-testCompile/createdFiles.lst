@@ -1,0 +1,7 @@
+com\bytesw\blackjackconsoleapp\BlackjackConsoleAppApplicationTests.class
+com\bytesw\blackjackconsoleapp\repository\JugadorRepositoryTests.class
+com\bytesw\blackjackconsoleapp\service\UsuarioServiceTests.class
+com\bytesw\blackjackconsoleapp\repository\PartidaRepositoryTests.class
+com\bytesw\blackjackconsoleapp\service\PartidaServiceTests.class
+com\bytesw\blackjackconsoleapp\repository\UsuarioRepositoryTests.class
+com\bytesw\blackjackconsoleapp\service\JugadorServiceTests.class
