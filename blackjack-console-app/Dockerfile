@@ -1,7 +1,7 @@
 FROM adoptopenjdk/openjdk11:alpine-jre
 WORKDIR /workspace
 
-ENV host="mysqlserver"
+ENV host="mysql_server"
 ENV port="3306"
 ENV database="blackjack"
 ENV username="root"
